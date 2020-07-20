@@ -23,7 +23,7 @@ python3 rar-cracker.py
 ```
 
 ## Usage
-for useing this script you can run script with `python3 zip-cracker.py` command!
+for useing this script you can run script with `python3 zip-cracker.py` command! <br>
 in the other hand you can run it with `python3 zip-cracker.py [path of zipfile] [path of password list]` command
 
 ## ScreenShot
