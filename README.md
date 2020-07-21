@@ -7,11 +7,11 @@ This script is only for learning purpose.
 Never use it to break the law.
 
 ## Table of Contents
-* [Installing](https://github.com/ali-moments/rar-cracker#installing)
-* [Usage](https://github.com/ali-moments/rar-cracker#usage)
-* [ScreenShot](https://github.com/ali-moments/rar-cracker#screenshot)
-* [Credits](https://github.com/ali-moments/rar-cracker#credits)
-* [License](https://github.com/ali-moments/rar-cracker#license)
+* [Installing](https://github.com/ali-moments/zip-cracker#installing)
+* [Usage](https://github.com/ali-moments/zip-cracker#usage)
+* [ScreenShot](https://github.com/ali-moments/zip-cracker#screenshot)
+* [Credits](https://github.com/ali-moments/zip-cracker#credits)
+* [License](https://github.com/ali-moments/zip-cracker#license)
 
 ## Installing
 ```bash
