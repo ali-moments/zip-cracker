@@ -40,4 +40,4 @@ Ali-AAA
 
 ## License
 
-![License](https://img.shields.io/github/license/ali-moments/rar-cracker)
+![License](https://img.shields.io/github/license/ali-moments/zip-cracker)
