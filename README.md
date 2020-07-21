@@ -16,10 +16,10 @@ Never use it to break the law.
 ## Installing
 ```bash
 sudo apt install git
-git clone https://github.com/ali-moments/rar-cracker.git
-cd rar-cracker
+git clone https://github.com/ali-moments/zip-cracker.git
+cd zip-cracker
 pip3 install -r requirements.txt
-python3 rar-cracker.py
+python3 zip-cracker.py
 ```
 
 ## Usage
